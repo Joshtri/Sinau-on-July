@@ -1,0 +1,16 @@
+D:\Code\C#\Libur Belajar Apa\02.07.22\02.07.22\bin\Debug\net5.0\02.07.22.exe
+D:\Code\C#\Libur Belajar Apa\02.07.22\02.07.22\bin\Debug\net5.0\02.07.22.deps.json
+D:\Code\C#\Libur Belajar Apa\02.07.22\02.07.22\bin\Debug\net5.0\02.07.22.runtimeconfig.json
+D:\Code\C#\Libur Belajar Apa\02.07.22\02.07.22\bin\Debug\net5.0\02.07.22.runtimeconfig.dev.json
+D:\Code\C#\Libur Belajar Apa\02.07.22\02.07.22\bin\Debug\net5.0\02.07.22.dll
+D:\Code\C#\Libur Belajar Apa\02.07.22\02.07.22\bin\Debug\net5.0\02.07.22.pdb
+D:\Code\C#\Libur Belajar Apa\02.07.22\02.07.22\obj\Debug\net5.0\02.07.22.csproj.AssemblyReference.cache
+D:\Code\C#\Libur Belajar Apa\02.07.22\02.07.22\obj\Debug\net5.0\02.07.22.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C#\Libur Belajar Apa\02.07.22\02.07.22\obj\Debug\net5.0\02.07.22.AssemblyInfoInputs.cache
+D:\Code\C#\Libur Belajar Apa\02.07.22\02.07.22\obj\Debug\net5.0\02.07.22.AssemblyInfo.cs
+D:\Code\C#\Libur Belajar Apa\02.07.22\02.07.22\obj\Debug\net5.0\02.07.22.csproj.CoreCompileInputs.cache
+D:\Code\C#\Libur Belajar Apa\02.07.22\02.07.22\obj\Debug\net5.0\02.07.22.dll
+D:\Code\C#\Libur Belajar Apa\02.07.22\02.07.22\obj\Debug\net5.0\refint\02.07.22.dll
+D:\Code\C#\Libur Belajar Apa\02.07.22\02.07.22\obj\Debug\net5.0\02.07.22.pdb
+D:\Code\C#\Libur Belajar Apa\02.07.22\02.07.22\obj\Debug\net5.0\02.07.22.genruntimeconfig.cache
+D:\Code\C#\Libur Belajar Apa\02.07.22\02.07.22\obj\Debug\net5.0\ref\02.07.22.dll
